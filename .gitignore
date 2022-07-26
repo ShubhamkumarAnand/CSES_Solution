@@ -1,1 +1,5 @@
 .cph
+.vscode
+algo
+.clang-format
+tasks.json
